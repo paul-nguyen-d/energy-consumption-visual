@@ -1,3 +1,6 @@
+## Live App
+https://paul-nguyen-d.github.io/energy-consumption-visual/
+
 # World-Energy-Consumption-Visualisation
 A visualisation of the world's energy I made using D3 library.
 
@@ -12,5 +15,3 @@ The purpose of this visualisation is to compare the consumption and production o
 * Select between energy production and consumption
 * Observe each country’s fluctuation over time by the bar chart or line chart
 
-## Live App
-https://paul-nguyen-d.github.io/energy-consumption-visual/
